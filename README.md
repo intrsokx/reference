@@ -14,3 +14,6 @@
 > * https://xxx.xxx.xxx
 > * https://xxx.xxx.xxx
 > * https://xxx.xxx.xxx
+
+### 算法
+> [刷题](https://greyireland.gitbook.io/algorithm-pattern/)
