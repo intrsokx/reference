@@ -4,6 +4,12 @@
 >
 >- brief: 日常学习的一些资源整理，持续更新...
 >
+>- mind: 我不生产知识，只做知识的搬运工
+>
+>
+
+# 一些有趣的站点
+* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
 ## TYPE
 ### redis
