@@ -9,7 +9,7 @@
 >
 
 # 一些有趣的站点
-* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+>* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
 ## TYPE
 ### redis
