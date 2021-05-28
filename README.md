@@ -8,10 +8,13 @@
 >
 >
 
-# 一些有趣的站点
+# 我经常逛的一些站点
+>* [Draven](https://draveness.me/)
 >* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
 ## TYPE
+### Golang
+>* [跟煎鱼学go](https://eddycjy.gitbook.io/golang/)
 ### redis
 > 书籍
 > * [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook/63822)
