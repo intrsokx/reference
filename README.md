@@ -16,6 +16,7 @@
 ## TYPE
 ### Golang
 >* [跟煎鱼学go](https://eddycjy.gitbook.io/golang/)
+>* [go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
 ### redis
 > 书籍
 > * [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook/63822)
