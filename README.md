@@ -27,5 +27,5 @@
 > * https://xxx.xxx.xxx
 
 ### 算法
-> [刷题](https://greyireland.gitbook.io/algorithm-pattern/)
-> [labuladong算法小抄](https://labuladong.gitbook.io/algo/)
+> * [刷题](https://greyireland.gitbook.io/algorithm-pattern/)
+> * [labuladong算法小抄](https://labuladong.gitbook.io/algo/)
