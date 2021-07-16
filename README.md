@@ -26,6 +26,10 @@
 > * https://xxx.xxx.xxx
 > * https://xxx.xxx.xxx
 
+### git 
+> * [The entire Pro Git book](https://git-scm.com/book/zh/v2)
+> * [廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+
 ### 算法
 > * [刷题](https://greyireland.gitbook.io/algorithm-pattern/)
 > * [labuladong算法小抄](https://labuladong.gitbook.io/algo/)
