@@ -9,9 +9,10 @@
 >
 
 # 我经常逛的一些站点
->* [Draven](https://draveness.me/)
->* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
->* [极客兔兔](https://geektutu.com/)
+>* [Draven - 硬核golang](https://draveness.me/)
+>* [阮一峰的网络日志 - 互联网趣事](http://www.ruanyifeng.com/blog/)
+>* [极客兔兔 - 项目实践](https://geektutu.com/)
+>* [开发内功修炼 - 后端](https://github.com/yanfeizhang/coder-kung-fu)
 
 ## TYPE
 ### Golang
