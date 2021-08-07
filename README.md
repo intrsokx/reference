@@ -18,6 +18,7 @@
 ### Golang
 >* [跟煎鱼学go](https://eddycjy.gitbook.io/golang/)
 >* [go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
+>* [编程沉思录 - 简洁的go源码剖析](https://www.cyhone.com/)
 ### redis
 > 书籍
 > * [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook/63822)
